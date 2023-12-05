@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "generate": "node generate.js",
+    "prepare": "husky install"
+  }
+}
